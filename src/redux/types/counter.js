@@ -1,0 +1,4 @@
+const INC_COUNTER = 'INC_COUNTER';
+const DEG_COUNTER = 'DEG_COUNTER';
+
+export { INC_COUNTER, DEG_COUNTER };
